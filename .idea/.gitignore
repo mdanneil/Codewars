@@ -2,7 +2,10 @@
 /shelf/
 /workspace.xml
 # Datasource local storage ignored files
-/../../../../../../:\Users\ddewe\IdeaProjects\Codewars\.idea/dataSources/
+C:\Users\ddewe\IdeaProjects\Codewars\.idea
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+# Target folder
+C:\Users\ddewe\IdeaProjects\Codewars\target
+C:\Users\ddewe\IdeaProjects\Codewars\.idea\.gitignore
