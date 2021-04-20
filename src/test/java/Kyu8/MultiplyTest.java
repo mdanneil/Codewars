@@ -1,4 +1,4 @@
-package Kyu8.Multiply;
+package Kyu8;
 
 import org.junit.jupiter.api.Test;
 

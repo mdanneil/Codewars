@@ -1,7 +1,7 @@
-package Kyu8.SumOfNumbers;
+package Kyu8;
 
-public class Sum {
-    public int GetSum(int a, int b) {
+public class SumOfNumbers {
+    public static int GetSum(int a, int b) {
 
         int sum = 0;
 

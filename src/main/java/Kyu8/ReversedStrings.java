@@ -1,4 +1,4 @@
-package Kyu8.ReversedStrings;
+package Kyu8;
 
 /**
  * Complete the solution so that it reverses the string passed into it.

@@ -1,5 +1,6 @@
-package Kyu8.ReversedStrings;
+package Kyu8;
 
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
@@ -8,6 +9,6 @@ public class ReversedStringsTest {
 
     @Test
     public void sampleTests() {
-        assertEquals("dlrow", ReversedStrings.solution("world"));
+        Assertions.assertEquals("dlrow", ReversedStrings.solution("world"));
     }
 }
