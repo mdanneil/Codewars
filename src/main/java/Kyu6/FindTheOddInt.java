@@ -9,12 +9,11 @@ package Kyu6;
 public class FindTheOddInt {
     public static int findIt(int[] a) {
 
-        for (int i = 0; i < a.length; i++) {
+        for (int currentNum : a) {
 
-            int currentNum = a[i];
             int count = 0;
-            for (int j = 0; j < a.length; j++) {
-                if (a[j] == currentNum) {
+            for (int i : a) {
+                if (i == currentNum) {
                     count++;
                 }
             }
