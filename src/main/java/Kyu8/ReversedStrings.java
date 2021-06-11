@@ -7,7 +7,7 @@ package Kyu8;
 public class ReversedStrings {
 
     public static String solution(String str) {
-        StringBuilder sb = new StringBuilder(str);
-        return sb.reverse().toString();
+        StringBuilder sbb = new StringBuilder(str);
+        return sbb.reverse().toString();
     }
 }
